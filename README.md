@@ -12,5 +12,5 @@ Simple web app that allows the user to search through the github user base to ga
 - Some animations
 
 ## Reference
-
-The website is inspired from [Front End mentor](https://www.frontendmentor.io/home) challenges
+- Icons from  [Eva Icons](https://akveo.github.io/eva-icons/#/?searchKey=brief&type=outline)
+- The website is inspired from [Front End mentor](https://www.frontendmentor.io/home) challenges
